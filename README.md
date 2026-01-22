@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Data Analyst learner
 <!--
 **SHAIK079/SHAIK079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
